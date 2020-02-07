@@ -1,6 +1,6 @@
 # CSS
 Latihan 1
-# ![Alt Text](https://github.com/Tio304/CSS/blob/master/Tugas%20Baru/TS%201.png)
+# ![Alt Text](https://github.com/Tio304/CSS/blob/master/Tugas%20Baru/Tugas%201.PNG)
 Working Code:https://github.com/Tio304/CSS/blob/master/Tugas%20Baru/tugas%201%20.html
 Latihan 2
 # ![Alt Text](https://github.com/Tio304/CSS/blob/master/Tugas%20Baru/Tugas%202.PNG)
